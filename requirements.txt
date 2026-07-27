@@ -2,3 +2,5 @@ python-dotenv
 Langchain
 ipykernel
 langchain_community
+pypdf
+beautifulsoup4
